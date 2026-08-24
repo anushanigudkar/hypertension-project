@@ -12,7 +12,7 @@ interface ForcedChoiceInputProps {
 export function ForcedChoiceInput({ question, value, onChange }: ForcedChoiceInputProps) {
   return (
     <div className="flex flex-col gap-4">
-      <p className="text-sm text-sage-600">Pick the one that's closest to how you actually feel — there's no in-between option.</p>
+      <p className="text-sm text-sage-600">Pick the one that’s closest to how you actually feel — there’s no in-between option.</p>
 
       <div className="flex flex-col gap-2.5">
         <OptionButton
