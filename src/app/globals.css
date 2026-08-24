@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Muted brick-red for form validation errors — deliberately distinct from
+     the amber used for "worth noting, not alarming" content elsewhere, since
+     this is ordinary form feedback, not a health-data judgment call. */
+  --text-danger: #b3261e;
+}
+
+body {
+  background-color: #faf9f6;
+}

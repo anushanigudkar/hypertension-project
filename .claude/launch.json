@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "hypertension-questionnaire",
+      "runtimeExecutable": "/Users/anushanigudkar/.nvm/versions/node/v24.19.0/bin/node",
+      "runtimeArgs": ["/Users/anushanigudkar/Desktop/Hypertension Project/node_modules/next/dist/bin/next", "dev"],
+      "port": 3000,
+      "autoPort": true
+    }
+  ]
+}
